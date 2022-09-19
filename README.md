@@ -4,4 +4,4 @@
 
 ## 💻 Dependencies
 
-* glut
+* freeGLUT
